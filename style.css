@@ -1,0 +1,12 @@
+.header{
+    background-color: #FFF8F3;
+    height: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+.developer{
+    width: 20%;
+}
+.banner{
+    width: 80%;
+}
