@@ -1,3 +1,7 @@
+*{
+    margin: 0px;
+}
+
 .header{
     background-color: #FFF8F3;
     height: 600px;
@@ -6,6 +10,12 @@
 }
 .developer{
     width: 20%;
+    padding: 20px;
+    list-style: none;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #C6C1C1;
+    
 }
 .banner{
     width: 80%;
