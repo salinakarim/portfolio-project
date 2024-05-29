@@ -9,14 +9,22 @@
     justify-content: space-between;
 }
 .developer{
-    width: 20%;
-    padding: 20px;
-    list-style: none;
-    font-size: 30px;
-    font-weight: bolder;
-    color: #C6C1C1;
-    
+    width: 20%;    
 }
+
+.developer-element{
+    display: inline-block;
+    transform: rotateZ(270deg);
+    font-size: 35px;
+    color: #C6C1C1;
+    padding: 15%;
+    letter-spacing: 5px;
+    font-weight: bolder;
+    line-height: 10px;
+
+}
+
+
 .banner{
     width: 80%;
 }
